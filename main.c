@@ -3,7 +3,7 @@ int main()
   int i;
   for (i = 0; i < 33; i++)
   {
-    printf("Holaberton\n");
+    printf("Hola berton\n");
   }
-  return 33;
+  return 0;
 }
